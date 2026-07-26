@@ -265,10 +265,6 @@ This project is licensed under the MIT License.
 # 👨‍💻 Author
 
 **Mohamed Fazil RM**
-
-- GitHub: https://github.com/Fazil-RM
-- LinkedIn: https://linkedin.com/in/your-linkedin-profile
-
 ---
 
 ⭐ If you found this project useful, consider giving it a star!
